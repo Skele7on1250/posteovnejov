@@ -1,0 +1,1 @@
+worker: python postirony_bot.py
